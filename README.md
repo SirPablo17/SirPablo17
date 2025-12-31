@@ -19,9 +19,12 @@ Sou estudante de **Tecnologia em Sistemas para Internet no SENAC** e atuo como A
 
 ---
 
-### 📊 Visão Geral
+### 🚀 Estatísticas Rápidas
 
-![Metrics](https://metrics.lecoq.io/SirPablo17?template=classic&base=header,activity,community,repositories,metadata&config.timezone=America%2FSao_Paulo&config.theme=tokyonight)
+<div align="center">  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SirPablo17&layout=compact&theme=tokyonight" height="150" alt="Top Langs" />
+</div>
+
 ---
 
 ### 🏆 Contribuições em 3D
